@@ -1,2 +1,2 @@
 # E-ticaret-sitesi
-içerisinde belirli özellikleri barındıran tam anlamıyla bitirilmemiş bir e-ticaret sitesi.
+içerisinde belirli özellikleri barındıran e-ticaret sitesi. Geliştirilmeye devam etmektedir.
